@@ -1,0 +1,3 @@
+[submodule "xgc"]
+	path = xgc
+	url = https://xell@github.com/xell/xell.github.com.git
